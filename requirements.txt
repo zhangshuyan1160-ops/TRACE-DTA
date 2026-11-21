@@ -1,0 +1,6 @@
+numpy==2.2.6
+rdkit==2025.3.6
+torch==2.8.0
+safetensors==0.6.2
+fair-esm==2.0.0
+transformers==4.55.4
